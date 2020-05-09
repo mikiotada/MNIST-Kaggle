@@ -2,7 +2,7 @@
 
 - Singlelayer perceptron
 - Multilayer perceptron
-- CNN
+- LetNet-5
 
 ## References
 * [Kaggle](https://www.kaggle.com/c/digit-recognizer/leaderboard)
